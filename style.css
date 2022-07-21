@@ -14,10 +14,10 @@ body {
   position: absolute;
   top: 20%;
   left: 20%;
-  font-size: larger;
+  font-size: xx-large;
 }
 h1 {
-  color: rgb(21, 60, 122);
+  color: #1157f0;
   position: relative;
   top: 40%;
   left: 2%;
@@ -26,4 +26,5 @@ h1 {
   color: #fff;
   position: relative;
   top: 80%;
+  padding: 2rem;
 }
